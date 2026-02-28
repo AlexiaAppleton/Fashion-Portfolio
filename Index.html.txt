@@ -170,7 +170,7 @@ font-size:42px;
 
 <header>
 
-<div class="logo">JESSICA MCNEIL</div>
+<div class="logo">Alexia Appleton</div>
 
 <nav>
 <a href="#portfolio">Portfolio</a>
@@ -234,14 +234,10 @@ font-size:42px;
 
 <div class="about hidden">
 
-My portfolio presents a diverse range of projects that explore observation, storytelling and material experimentation through fashion and design. Each project reflects my interest in translating conceptual narratives into expressive, wearable outcomes.
- 
-The first project draws inspiration from jesters, figures traditionally associated with comedy and playfulness, yet historically rooted in truth-telling and social critique. This duality became central to my design approach. I explored the contrast between a playful exterior and the seriousness beneath the jester’s identity through material and silhouette. Recycled denim scraps and chaotic ruffles symbolised disruption and imbalance, while structured corsetry represented restraint and control. Experimental sampling informed my use of texture and movement, allowing humour and satire to coexist with theatrical detail. Loose ribbons threaded through structured panels imply tension, while the deliberately messy, heavily ruffled skirt creates a chaotic silhouette that reflects the performative nature of fools. The final corset and skirt ensemble embodies contradiction and complexity, reinforcing themes of honesty, deception and theatrical entertainment.
- 
-The second project focused on observing people in their everyday lives and reinterpreting these moments in an expressive and visually impactful way. I captured ordinary activities in natural settings, paying close attention to hand gestures and body language. Using bright colours, loose lines and expressionist techniques, I highlighted energy and emotion within routine moments. Photography formed the foundation of this project and directly informed my designs. I collaged my drawings onto a waistcoat, transforming the garment into a wearable canvas. The choice of a waistcoat, associated with casual everyday wear, reinforced the concept both visually and conceptually.
-The third project centres on nature as a source of texture, colour and pattern. I explored expressive sampling techniques and designed my own repeat pattern using a palette of mossy greens and bark browns, translating organic forms into a refined final outcome.
-
-
+My fashion practice is driven by concept-led design and experimentation, with a strong focus on construction, pattern making, and development. I am most interested in how ideas can be communicated through shape, structure and material rather than relying solely on surface design. Designers such as Duran Lantink, Vivienne Westwood and Gabriela Hearst have influenced the way I approach my work, particularly in how they challenge fast fashion, traditional silhouettes and the relationship between fashion and sustainability.
+A key project within my portfolio was a conceptual fashion brief exploring the suffocating nature of the fast fashion industry. I created a large-scale abstract piece that focused on restriction, excess and discomfort. Through this project, I worked with exaggerated proportions and engulfing forms to visually represent pressure and overwhelm. This was an important learning experience, pushing me to think beyond conventional garments and focus on translating an idea into a physical outcome.
+Another project that reflects my creative process was a painting brief where I painted directly onto a jacket in which I designed and made myself. For this project, I took inspiration from the likes of Dan McKinleys experimental spray paint work and the silhouettes created by @bitcrcrcr’s work with White Abyss. This allowed me to explore the crossover between fashion and fine art while still considering the structure and wearability of the piece. Painting onto a constructed garment helped me develop my understanding of how colour, texture and imagery interact with form and movement.
+I consider pattern making and garment development to be the most successful elements of my work. I enjoy the technical challenge of transforming conceptual ideas into structured designs and refining them through sampling and development. These skills have allowed me to communicate my ideas clearly and form a strong foundation for my future progression in fashion design.
 </div>
 
 </section>
@@ -252,9 +248,9 @@ The third project centres on nature as a source of texture, colour and pattern. 
 
 <div class="contact hidden">
 
-Email: jjad3mc1624@gmail.com  
+Email: appletonalexia7@gmail.com
 <br><br>
-UCAS: 2026785967
+UCAS: 2026783365
 
 </div>
 
@@ -262,7 +258,7 @@ UCAS: 2026785967
 
 <footer>
 
-© 2026 Jessica McNeil
+© 2026 Alexia Appleton
 
 </footer>
 
@@ -285,4 +281,5 @@ observer.observe(el);
 </script>
 
 </body>
+
 </html>
